@@ -1,0 +1,15 @@
+{
+  "name": "magickal",
+  "description": "A simple image manipulation library wrapping GraphicsMagick",
+  "version": "0.0.1",
+  "homepage": "hhttp://github.com/mirkok/Node-Magick",
+  "repository": "git://github.com/mirkok/Node-Magick.git",
+  "author": "Mirko Kiefer <mail@mirkokiefer.com> (http://mirkokiefer.com)",
+  "main": "lib/node-magick",
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
